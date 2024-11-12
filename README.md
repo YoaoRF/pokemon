@@ -1,1 +1,1 @@
-# POKETINDER[.idea](.idea)
+# POKETINDER busca tu pokemon ideal
